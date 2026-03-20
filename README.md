@@ -59,8 +59,3 @@ The objective of this project is to convert raw IPL match data into **meaningful
 - Season filter (dynamic dashboard)
 - Toss decision filter (bat/field)
 - Fully interactive visual exploration
-
-
-nd aggregation done within Tabl---
-
-## 📂 Proje Structure
